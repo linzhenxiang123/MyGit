@@ -13,6 +13,7 @@ public class TestActivity extends AppCompatActivity {
         Log.e("aa","aaa");
         Log.e("ccc","dddd");
         Log.e("ccc","dddd");
+        Log.e("aa","aaa");
         Log.e("ccc","dddd");
         Log.e("ccc","dddd");
         Log.e("ccc","dddd");
