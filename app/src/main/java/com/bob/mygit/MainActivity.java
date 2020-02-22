@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         btn_feature_1 = (Button) findViewById(R.id.btn_feature_1);
         btn_feature_2 = (Button) findViewById(R.id.btn_feature_2);
         btn_feature_4 = (Button) findViewById(R.id.btn_feature_4);
+        btn_feature_4 = (Button) findViewById(R.id.btn_feature_4);
     }
 
     /**
