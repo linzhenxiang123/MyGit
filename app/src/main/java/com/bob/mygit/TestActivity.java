@@ -6,6 +6,7 @@ import android.util.Log;
 
 public class TestActivity extends AppCompatActivity {
 
+    private int hello = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
