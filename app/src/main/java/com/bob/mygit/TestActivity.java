@@ -10,6 +10,7 @@ public class TestActivity extends AppCompatActivity {
     private int hello22 = 22;
     private boolean aaa = true;
     private boolean bbb = false;
+    private boolean ccc = false;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
