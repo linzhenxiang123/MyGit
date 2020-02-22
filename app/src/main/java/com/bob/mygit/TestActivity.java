@@ -12,5 +12,6 @@ public class TestActivity extends AppCompatActivity {
         setContentView(R.layout.activity_test);
         Log.e("aa","aaa");
         Log.e("ccc","dddd");
+        Log.e("ccc","dddd");
     }
 }
