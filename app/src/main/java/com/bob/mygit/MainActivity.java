@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_feature_1;
     private Button btn_feature_2;
     private Button btn_feature_4;
+    private String sb="11";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
