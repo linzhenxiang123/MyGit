@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_feature_4;
     private Button btn_feature_newbranch1;
     private Button btn_feature_newbranch2;
+    private Button btn_feature_newbranch333;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         btn_feature_4 = (Button) findViewById(R.id.btn_feature_4);
         btn_feature_newbranch1 = (Button) findViewById(R.id.btn_feature_4);
         btn_feature_newbranch2 = (Button) findViewById(R.id.btn_feature_4);
+        btn_feature_newbranch333 = (Button) findViewById(R.id.btn_feature_4);
     }
 
     /**
