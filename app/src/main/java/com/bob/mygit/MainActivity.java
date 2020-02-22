@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_feature_2;
     private Button btn_feature_4;
     private String sb="11";
+    private String check="11";
 
 
     @Override
